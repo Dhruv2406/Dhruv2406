@@ -14,9 +14,9 @@
 
 - 🔭 I’m currently working on <b>Web Development</b>
 
-- 🌱 I’m currently learning <b> AWS</b>
+- 🌱 I’m currently learning <b> Cloud Architecture</b>
 
-- 👯 I’m looking to collaborate on developing <b>single page Web-apps, Android applications, Tech Articles</b>
+- 👯 I’m looking to collaborate on developing <b>Android applications, Tech Articles</b>
 
 - 💬 We can discuss about <b>any innovative Tech designs.</b>
 
@@ -26,7 +26,7 @@
 <h2> <b>Connect with me: </h2>
 <a href = 'https://www.linkedin.com/in/dhruv-mistry-070b291b6'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href = 'https://medium.com/@druvmystry02'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
-<a href = 'https://www.github.com/Dhruv2406'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://twitter.com/DhruvMi76244635'> <img width = '32px' align= 'center' src="https://www.nicepng.com/png/detail/52-527302_white-twitter-icon-png-png-images-twitter-logo.png"/></a>
 
 <br>
 <h2><b> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
