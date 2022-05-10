@@ -20,7 +20,7 @@
 
 - 💬 We can discuss about <b>any innovative Tech designs.</b>
 
-- 📫 Reach me at **druvmystry@gmail.com**
+- 📫 Contact me at **druvmystry@gmail.com**
 
 <br>
 <h2> <b>Connect with me: </h2>
