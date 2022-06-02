@@ -19,7 +19,7 @@
 
 - 💬 We can discuss about <b>engaging Tech designs</b>
 
-- 📫 Contact me at **druvmystry02@gmail.com**
+- 📫 Reach me at **druvmystry02@gmail.com**
 
 <br>
 <h2> <b>Connect with me: </h2>
@@ -28,7 +28,7 @@
 <a href = 'https://twitter.com/DhruvMi76244635'> <img width = '45px' height = '40px' align= 'center' src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"/></a>
 
 <br>
-<h2><b> Skills  </h2>
+<h2><b> Skills </h2>
 <h3><b>Languages</h3>
 <a href= "https://www.w3schools.com/c" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= "https://www.w3schools.com/CPP" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
