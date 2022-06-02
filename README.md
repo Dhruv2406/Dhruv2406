@@ -28,7 +28,7 @@
 <a href = 'https://twitter.com/DhruvMi76244635'> <img width = '45px' height = '40px' align= 'center' src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"/></a>
 
 <br>
-<h2><b> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5px> </h2>
+<h2><b> Skills  </h2>
 <h3><b>Languages</h3>
 <a href= "https://www.w3schools.com/c" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= "https://www.w3schools.com/CPP" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
