@@ -11,7 +11,7 @@
 <h2><b> About Me </b></h2>
 
 
-- 🔭 I’m currently working on <b>Flutter</b>
+- 🔭 I’m currently working on <b>Responsive Designs</b>
 
 - 🌱 I’m currently learning <b> Cloud Architecture</b>
 
