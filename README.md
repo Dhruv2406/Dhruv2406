@@ -24,7 +24,6 @@
 <br>
 <h2> <b>Connect with me: </h2>
 <a href = 'https://www.linkedin.com/in/dhruvmistry2406'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://medium.com/@druvmystry02'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
 <a href = 'https://twitter.com/DhruvMi76244635'> <img width = '45px' height = '40px' align= 'center' src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"/></a>
 
 <br>
