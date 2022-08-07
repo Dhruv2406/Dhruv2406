@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on <b>Responsive Designs</b>
 
-- 🌱 I’m currently learning <b> Cloud Architecture</b>
+- 🌱 I’m currently learning <b>Web Development</b>
 
 - 👯 I’m looking to collaborate on developing <b>Tech articles, escalating ideas</b>
 
