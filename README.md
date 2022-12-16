@@ -15,9 +15,7 @@
 
 - 🌱 I’m currently learning <b>Web Development</b>
 
-- 👯 I’m looking to collaborate on developing <b>Tech articles, escalating ideas</b>
-
-- 💬 We can discuss about <b>engaging Tech designs</b>
+- 👯 I’m looking to collaborate on developing <b>Tech articles</b>
 
 - 📫 Reach me at **druvmystry02@gmail.com**
 
